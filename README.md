@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Michał!</h1>
-<h3 align="center">A passionate embedded hobbyist that felt great affection to .NET development.</h3>
+<h3 align="center">An embedded and mechanical engineering passionate that felt great affection to .NET development.</h3>
 
 - 🔭 I’m currently working on **Building my public portfolio**
 
