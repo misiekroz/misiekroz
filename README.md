@@ -6,6 +6,10 @@
 - 🌱 I’m currently learning **ASP.NET, RESTful API's**
 
 - 💬 Ask me about **.NET, Arduino, 3D printing, CAD**
+  
+- 🤖 I'm an engineer in **Industrial Control and Robotics @ AGH University of Krakow**
+
+- 🎓 I'm currently studying **Industial Control and Robotics: specialization in Robotics, masters degree @ AGH University of Krakow**
 
 - 📫 How to reach me **michal.rozalski01@gmail.com**
 
