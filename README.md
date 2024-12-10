@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Michał!</h1>
 <h3 align="center">An embedded and mechanical engineering passionate that felt great affection to .NET development.</h3>
 
-- 🔭 I’m currently working on **Building my public portfolio**
+- 🔭 I’m currently working on **My master's thesis: Solar Tracker Control Algorithm based on ESP32**
 
-- 🌱 I’m currently learning **ASP.NET, RESTful API's**
+- 🌱 I’m currently learning **ESP-IDF, VUEjs, Bootstrap, Python**
 
 - 💬 Ask me about **.NET, Arduino, 3D printing, CAD**
   
