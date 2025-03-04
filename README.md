@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **michal.rozalski01@gmail.com**
 
-- ⚡ Fun fact **Did you know, that human hand model has 27 degrees of freedom?**
+- ⚡ Fun fact **It is estimated that all words ever spoken by mankind would take up 5 Exabytes of memory**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
