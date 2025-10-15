@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Docker, Kubernetes**
 
-- 👯 I’m looking to collaborate on **Microservices, WebApps, Robotics**
+- 👯 I’m looking to collaborate on **WebApps, Robotics**
 
 - 💬 Ask me about **Python, .NET, Vue.js, 3D Printing, CAD**
 
